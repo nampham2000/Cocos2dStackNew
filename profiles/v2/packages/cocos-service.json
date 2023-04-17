@@ -1,0 +1,151 @@
+{
+  "__version__": "3.0.6",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "a0b19f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "613692848",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "3.0.6"
+      }
+    },
+    "taskOptionsMap": {
+      "1681329045592": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681329287463": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681349355596": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681369174697": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681369288341": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681369341583": {
+        "configID": "a0b19f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "613692848",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "1681329045592}": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681329287463}": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681349355596}": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681369174697}": {
+        "configID": "e65449",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1681369341583}": {
+        "configID": "a0b19f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "613692848",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "1681371165039": {
+        "configID": "a0b19f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "613692848",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "1681371383594": {
+        "configID": "a0b19f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "613692848",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "3.0.6"
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "builder-options": {
+    "configID": "a0b19f",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "C:\\Users\\Admin\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+        "enable": true,
+        "params": {
+          "app_id": "613692848",
+          "store_id": "H5"
+        }
+      }
+    ],
+    "__version__": "3.0.6"
+  }
+}

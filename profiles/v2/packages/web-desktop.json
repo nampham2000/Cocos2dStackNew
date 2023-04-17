@@ -1,0 +1,83 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      }
+    },
+    "taskOptionsMap": {
+      "1681329045592": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681329287463": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681349355596": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681369174697": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681369288341": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681369341583": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681371165039": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      },
+      "1681371383594": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.4",
+    "common": {}
+  }
+}

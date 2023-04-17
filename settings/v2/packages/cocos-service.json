@@ -1,0 +1,43 @@
+{
+  "__version__": "3.0.6",
+  "game": {
+    "app_id": "613692848",
+    "name": "Stack2D",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "e65449"
+    },
+    {
+      "app_id": "613692848",
+      "config_id": "a0b19f"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "e65449",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "613692848",
+      "config_id": "a0b19f",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "613692848",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}

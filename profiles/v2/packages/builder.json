@@ -1,0 +1,210 @@
+{
+  "__version__": "1.3.4",
+  "log": {
+    "level": 1
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1681329045592": {
+        "type": "build",
+        "id": "1681329045592",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-13-2023 02:52:27 run package D:\\Cocos\\Stack2D\\build\\web-desktop success!",
+        "options": {
+          "name": "Stack2D",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+          "outputName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Main.scene",
+              "uuid": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {},
+          "__version__": "1.3.4"
+        },
+        "time": "4-13-2023 02:50",
+        "dirty": false
+      },
+      "1681329287463": {
+        "type": "build",
+        "id": "1681329287463",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-13-2023 02:56:13 run package D:\\Cocos\\Stack2D\\build\\web-desktop-001 success!",
+        "options": {
+          "name": "Stack2D",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+          "outputName": "web-desktop-001",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Main.scene",
+              "uuid": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {},
+          "__version__": "1.3.4"
+        },
+        "time": "4-13-2023 02:54",
+        "dirty": false
+      },
+      "1681349355596": {
+        "type": "build",
+        "id": "1681349355596",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-13-2023 13:59:02 run package D:\\Cocos\\Stack2D\\build\\web-desktop-002 success!",
+        "options": {
+          "name": "Stack2D",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+          "outputName": "web-desktop-002",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Main.scene",
+              "uuid": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {},
+          "__version__": "1.3.4"
+        },
+        "time": "4-13-2023 08:29",
+        "dirty": false
+      },
+      "1681369174697": {
+        "type": "build",
+        "id": "1681369174697",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "4-13-2023 13:59:56 Build success in 22128 ms!",
+        "options": {
+          "name": "Stack2D",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+          "outputName": "web-desktop-003",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Main.scene",
+              "uuid": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {},
+          "__version__": "1.3.4"
+        },
+        "time": "4-13-2023 13:59",
+        "dirty": false
+      },
+      "1681371383594": {
+        "type": "build",
+        "id": "1681371383594",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-13-2023 14:36:39 run package D:\\Cocos\\Stack2D\\build\\web-desktop-004 success!",
+        "options": {
+          "name": "Stack2D",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+          "outputName": "web-desktop-004",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Main.scene",
+              "uuid": "163e1163-d2cc-4ecf-bb73-c24a6968fd1d",
+              "inBundle": false
+            }
+          ],
+          "web-desktop": [],
+          "packages": {},
+          "__version__": "1.3.4"
+        },
+        "time": "4-13-2023 14:36",
+        "dirty": false
+      }
+    }
+  }
+}
